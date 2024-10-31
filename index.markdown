@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container">
-  <h2 class="py-5">All toys</h2>
+  <h2 class="py-5">All toys Batch #1853</h2>
 </div>
 
 <div class="container">
